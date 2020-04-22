@@ -1,0 +1,157 @@
+
+.container-for-products{
+text-align: center;
+
+
+}
+
+.center-products{
+    display: inline-block;
+}
+
+
+iframe{
+    width:600px;
+    height:500px;
+    frameborder:0;
+    scrolling:no;
+    marginheight:0;
+    marginwidth:0;
+}
+
+/*link at footer to github*/
+b a{
+    color: black;
+
+
+}
+
+
+.nav-store-name{
+
+    padding:8px;
+
+}
+
+.title{
+
+    font-size: 80px;
+    font-family: serif;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
+
+
+.aboutsection{
+    border: 20px groove navy;
+    background-color: lightsteelblue;
+    width:40%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+}
+
+.contact{
+    border: 20px groove navy;
+    background-color: lightsteelblue;
+    width:20%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+
+
+}
+
+
+body{
+
+    background-image: url("lake3.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+footer{
+    padding: 15px;
+    background-image: linear-gradient(darkgrey, dimgray);
+
+}
+
+
+
+.ourimg{
+
+    object-fit: contain;
+    width: auto;
+    height: 300px;
+
+
+
+}
+
+
+h1, p, div, table, fieldset{
+    text-align: center;
+
+}
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: 50px;
+    text-align: center;
+    font-family: arial;
+
+
+}
+
+
+
+
+.price {
+    color: grey;
+    font-size: 22px;
+}
+.card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+.card button:hover {
+    opacity: 0.7;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 40%;
+    margin-left:auto;
+    margin-right:auto;
+    border:2px solid black;
+
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+.grey{
+    background-color: #f2f2f2;
+
+}
+
+.white{
+
+    background-color: white;
+
+}
